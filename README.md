@@ -78,16 +78,6 @@ How to Run
 3. Enter a URL or text into the input field and click the "Generate QR" button to see the generated QR code.
 
 
-
-Future Improvements
-
-Error Messages: Display more descriptive error messages when the input is invalid.
-
-Custom QR Options: Allow users to customize the size or color of the QR code.
-
-History Feature: Store and display previously generated QR codes for quick access.
-
-
 External API Used
 
 QR Code Generator API for generating QR codes.
