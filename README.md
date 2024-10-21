@@ -1,6 +1,9 @@
 Project Overview
 
 This project is a simple web-based QR Code Generator that allows users to create QR codes by entering text or a URL. The project dynamically generates the QR code using an external API and displays it on the screen. It also provides user feedback through animations when input is missing or incorrect.
+live at
+
+https://ombedebob.github.io/QR-Code-Generator/
 
 Features
 
